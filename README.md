@@ -26,7 +26,7 @@ Incluso, podría significar que la criptografía actual no sería segura. El alg
 
 ### Ejemplo de Problema NP
 
-- ##### El problema del viajante (TSP): 
+- ##### El problema del viajante: 
   Dado un conjunto de ciudades y distancias entre ellas, ¿existe un recorrido que visite cada ciudad exactamente una vez y regrese al punto de partida con una distancia total menor o igual a un límite dado?
     La entrada de este problema es un grafo con pesos enteros en los arcos y un límite de peso W. Entonces podemos ver si existe un circuito Hamiltoniano de peso total como máximo igual a W en el grafo, es decir, si un conjunto de arcos que conectan los nodos en un único ciclo y éstos aparecen una sola vez. Si tenemos 10 nodos, el número de ciclos distintos se incrementa de acuerdo a O(10!). Si bien se puede mejorar la resolución del problema intercambiando nodos, la mejor solución con una máquina de Turing no determinista es de O(n4). 
 
