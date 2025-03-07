@@ -10,7 +10,7 @@ Un problema de decisión pertenece a la clase **NP** si:
 
 Matemáticamente, un problema está en **NP** si existe una relación binaria \( R(x, y) \) tal que:
 - \( R(x, y) \) es verificable en tiempo polinomial.
-- Para toda instancia \( x \) del problema, \( x \) es una instancia "sí" si y solo si existe un certificado \( y \) tal que \( R(x, y) \) es verdadero.
+- Para toda instancia \( x \) del problema, \( x \) es una instancia si y solo si existe una solucion candidata \( y \) tal que \( R(x, y) \) es verdadero.
 
 ### Comparación con problemas P
 
