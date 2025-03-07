@@ -52,5 +52,5 @@ Dado que muchos problemas NP son computacionalmente difíciles, se han desarroll
 4. **Paralelismo**: Uso de computación distribuida para acelerar la resolución.
 
 
-## Conclusión
+### Conclusión
 Los problemas NP representan una clase fundamental en la teoría de la complejidad computacional. Su estudio no solo tiene implicaciones teóricas profundas, sino también aplicaciones prácticas en áreas como la optimización, la criptografía y la inteligencia artificial. Aunque la conjetura \( P \) vs \( NP \) sigue sin resolverse, el avance en técnicas algorítmicas y computacionales ha permitido abordar muchos de estos problemas en escenarios del mundo real.
